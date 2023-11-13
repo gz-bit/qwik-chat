@@ -1,5 +1,6 @@
 [Create Real Time Chat using Qwik and Bun WebSockets | Part 1
 ](https://www.youtube.com/watch?v=Oe8nQnrZq9c)
+
 [Create Real Time Chat using Qwik and Bun WebSockets | Part 2](https://www.youtube.com/watch?v=7BRReGpIVZc)
 ```code
 bun create qwick
